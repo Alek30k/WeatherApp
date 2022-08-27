@@ -1,0 +1,24 @@
+.navbar {
+  background-color: rgba(58, 54, 54, 0.438);
+  color: white;
+  display: flex;
+  justify-content: end;
+  padding: 20px;
+}
+
+.btnapp {
+  background-color: rgb(230, 234, 225);
+  color: rgb(20, 26, 202);
+}
+
+.btnAdd:hover {
+  background-color: rgb(117, 18, 11);
+  color: white;
+}
+
+.navigation {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-inline-end: auto;
+}
