@@ -57,7 +57,7 @@ function App() {
                   max={ciudad.main.temp_max}
                   icon={ciudad.weather[0].icon}
                   wallp={ciudad.weather[0].main}
-                  key={ciudad.id}
+                  id={ciudad.id}
                   country={ciudad.sys.country}
                 />
               ))
